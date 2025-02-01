@@ -1,2 +1,2 @@
 # Machine-learning
-Machine learning, algorithm, fitting and scaling
+Machine learning, algorithm, regression, classification, fitting and scaling
